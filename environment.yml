@@ -1,0 +1,16 @@
+name: daps-final
+
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - prophet
+    - seaborn
+    - pymongo
+    - scikit-learn
+    - requests
+    - statsmodels
+    - numpy
+    - pandas
+    - matplotlib
+    - plotly
